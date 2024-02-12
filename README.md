@@ -9,3 +9,13 @@
 
 
 ![logo](https://github.com/prajinpatil42/Login-Registration-using-MERN-Stack/blob/main/Images/5.png)
+
+
+
+<h1>Start front end:</h1>
+<h1>npm run dev</h1>
+
+<h1>Start Back end:</h1>
+<h1>npm start</h1>
+
+
