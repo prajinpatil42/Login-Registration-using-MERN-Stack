@@ -13,9 +13,9 @@
 
 
 <h1>Start front end:</h1>
-<h1>npm run dev</h1>
+<h4>npm run dev</h4>
 
 <h1>Start Back end:</h1>
-<h1>npm start</h1>
+<h4>npm start</h4>
 
 
